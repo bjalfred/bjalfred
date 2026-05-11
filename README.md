@@ -62,8 +62,9 @@
 </p>
 
 <p align="center">
-  📁 <a href="./CSE3503/">CS3503 </a>
+  📁 <a href="./CS3503/">Open CS3503 Folder</a>
 </p>
+
 
 
 
