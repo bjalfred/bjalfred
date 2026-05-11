@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=180&section=header&text=Staci%20GitHub%20Portfolio&fontSize=40&fontColor=C2185B&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=180&section=header&text=Brooke's%20GitHub%20Portfolio&fontSize=40&fontColor=C2185B&animation=twinkling"
   />
 </p>
 
