@@ -54,19 +54,19 @@
 </p>
 
 <p align="center">
-  📂 <a href="./CSE1321/">CSE 1321- Introduction to Python</a>
+  📂 <a href="./CSE1321/">CSE 1321- Introduction to Python(Fall 2024-Spring 2024)</a>
 </p>
 
 <p align="center">
-  📁 <a href="./CSE1322/">CSE1322- Introduction to Java </a>
+  📁 <a href="./CSE1322/">CSE1322- Introduction to Java (Summer 2025) </a>
 </p>
 
 <p align="center">
-  📁 <a href="./CS3503/">CS3503- Computer Organization and Architecture </a>
+  📁 <a href="./CS3503/">CS3503- Computer Organization and Architecture (Spring 2026) </a>
 </p>
 
 <p align="center">
-  📁 <a href="./CS3410/">CS3410- Intro to Database Systems </a>
+  📁 <a href="./CS3410/">CS3410- Intro to Database Systems (Spring 2026) </a>
 </p>
 
 
