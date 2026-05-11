@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  • Project 1 – Coming Fall 2026  
+  • Project 1 – Coming Summer 2026  
 </p>
 
 ---
@@ -55,6 +55,15 @@
 
 <p align="center">
   📂 <a href="./CSE1321/">CSE 1321 Labs</a>
+    📁 <a href="./CSE1322/">Open CSE1322 Folder</a>
+</p>
+
+<p align="center">
+  ├── 📂 <a href="./CSE1322/CSE1322Labs/">Labs</a><br>
+  ├── 📂 <a href="./CSE1322/CSE1322Assignments/">Assignments</a><br>
+  └── 📂 <a href="./CSE1322/CSE1322Other/">Other</a>
+</p>
+
 </p>
 
 
