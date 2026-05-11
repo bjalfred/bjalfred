@@ -23,12 +23,12 @@
 <!-- ABOUT ME -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=About%20Me&fontSize=28&fontColor=C2185B&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=About%20Me&fontSize=28&fontColor=C2185B"
   />
 </p>
 
 <p align="center">
-  ✨ Write a short intro about yourself here
+  ✨ Hello Everyone! I am Brooke Alfred and I'm currently a Junior at Kennesaw State University. I am currently pursuing my bachelors in Computer Science, and I am planning on attaining a masters in Artificial Intelligence. I am 20 years old, and I am excited to share my projects with you all! 
 </p>
 
 ---
@@ -36,14 +36,12 @@
 <!-- PROJECTS -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Projects&fontSize=28&fontColor=C2185B&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Projects&fontSize=28&fontColor=C2185B&"
   />
 </p>
 
 <p align="center">
-  • Project 1 – description  
-  • Project 2 – description  
-  • Project 3 – description  
+  • Project 1 – Coming Fall 2026  
 </p>
 
 ---
@@ -51,7 +49,7 @@
 <!-- COURSEWORK -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Coursework&fontSize=28&fontColor=C2185B&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Coursework&fontSize=28&fontColor=C2185B"
   />
 </p>
 
@@ -64,7 +62,7 @@
 <!-- SKILLS -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Skills&fontSize=28&fontColor=C2185B&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Skills&fontSize=28&fontColor=C2185B"
   />
 </p>
 
