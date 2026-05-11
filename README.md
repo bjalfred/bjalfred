@@ -9,8 +9,9 @@
 
 <!-- CUTE GIF UNDER HEADER -->
 <p align="center">
-  <img src="YOUR-GIF-FILE.gif" width="180" />
+  <img src="https://media.tenor.com/jZ9qCL1zKH3AAAAC/sakura-leaves.gif" width="180" />
 </p>
+
 
 ---
 
