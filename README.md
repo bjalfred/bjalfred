@@ -95,7 +95,7 @@
 <p align="center">
   Email: yourname@email.com  
   <br>
-  LinkedIn: https://linkedin.com/in/yourprofile
+  LinkedIn: https://linkedin.com/in/brookejordanalfred
 </p>
 
 
