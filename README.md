@@ -54,11 +54,11 @@
 </p>
 
 <p align="center">
-  📂 <a href="./CSE1321/">CSE 1321 Labs</a>
+  📂 <a href="./CSE1321/">CSE 1321</a>
 </p>
 
 <p align="center">
-  📁 <a href="./CSE1322/">Open CSE1322 Folder</a>
+  📁 <a href="./CSE1322/">CSE1322 </a>
 </p>
 
 
