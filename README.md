@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  📁 <a href="./CS3503/">Open CS3503 Folder</a>
+  📁 <a href="./CS3503/">CS3503 </a>
 </p>
 
 
