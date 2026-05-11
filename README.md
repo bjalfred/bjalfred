@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=white&height=300&section=header&text=Hello%20Everyone%20!&animation=twinkling&fontColor=dadada&fontSize=90&theme=merko)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20Everyone%20!&animation=twinkling&fontColor=dadada&fontSize=90&theme=merko)
 
 <!--
 **bjalfred/bjalfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
