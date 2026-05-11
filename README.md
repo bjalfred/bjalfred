@@ -8,9 +8,12 @@
 </p>
 
 <!-- CUTE GIF UNDER HEADER -->
+
+
 <p align="center">
-  <img src="sakura.gif" width="180" />
+  <img src="sakura.gif" width="500" />
 </p>
+
 
 
 
