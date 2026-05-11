@@ -54,15 +54,15 @@
 </p>
 
 <p align="center">
-  📂 <a href="./CSE1321/">CSE 1321</a>
+  📂 <a href="./CSE1321/">CSE 1321- Introduction to Python</a>
 </p>
 
 <p align="center">
-  📁 <a href="./CSE1322/">CSE1322 </a>
+  📁 <a href="./CSE1322/">CSE1322- Introduction to Java </a>
 </p>
 
 <p align="center">
-  📁 <a href="./CS3503/">CS3503 </a>
+  📁 <a href="./CS3503/">CS3503- Computer Organization and Architecture </a>
 </p>
 
 
