@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=180&section=header&text=Staci%20GitHub%20Portfolio&fontSize=40&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=180&section=header&text=Brooke's%20GitHub%20Portfolio&fontSize=40&fontColor=ffffff&animation=twinkling"
   />
 </p>
 
@@ -17,7 +17,7 @@
 <!-- ABOUT ME -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=About%20Me&fontSize=28&fontColor=ffffff"
   />
 </p>
 
@@ -30,7 +30,7 @@
 <!-- PROJECTS -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Projects&fontSize=28&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Projects&fontSize=28&fontColor=ffffff"
   />
 </p>
 
@@ -45,7 +45,7 @@
 <!-- COURSEWORK -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Coursework&fontSize=28&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Coursework&fontSize=28&fontColor=ffffff"
   />
 </p>
 
@@ -58,7 +58,7 @@
 <!-- SKILLS -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Skills&fontSize=28&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Skills&fontSize=28&fontColor=fffff"
   />
 </p>
 
@@ -71,7 +71,7 @@
 <!-- CONTACT -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Contact&fontSize=28&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=90&section=header&text=Contact&fontSize=28&fontColor=ffffff"
   />
 </p>
 
