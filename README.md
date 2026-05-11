@@ -58,14 +58,9 @@
 </p>
 
 <p align="center">
-     📁 <a href="./CSE1322/">Open CSE1322 Folder</a>
-</p>
-  ├── 📂 <a href="./CSE1322/CSE1322Labs/">Labs</a><br>
-  ├── 📂 <a href="./CSE1322/CSE1322Assignments/">Assignments</a><br>
-  └── 📂 <a href="./CSE1322/CSE1322Other/">Other</a>
+  📁 <a href="./CSE1322/">Open CSE1322 Folder</a>
 </p>
 
-</p>
 
 
 ---
