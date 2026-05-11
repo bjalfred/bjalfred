@@ -10,8 +10,9 @@
 <!-- CUTE GIF UNDER HEADER -->
 
 <p align="center">
-  <img src="sakura.gif" width="100%" style="max-width: 900px;" />
+  <img src="sakura.gif" width="850" height="120" />
 </p>
+
 
 
 
