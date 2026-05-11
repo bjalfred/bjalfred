@@ -1,7 +1,7 @@
-<!-- MAIN HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff4da6,ff85c1,ffc0cb&height=180&section=header&text=Staci%20GitHub%20Portfolio&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff69b4,ffb6c1&height=180&section=header&text=Staci%20GitHub%20Portfolio&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
+
 
 ---
 
