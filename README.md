@@ -54,8 +54,9 @@
 </p>
 
 <p align="center">
-  Relevant class work, labs, or research projects go here.
+  📂 <a href="./CSE1321/">CSE 1321 Labs</a>
 </p>
+
 
 ---
 
