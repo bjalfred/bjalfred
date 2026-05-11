@@ -1,9 +1,8 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=ff1493,ff4da6,ff85c1&height=180&section=header&text=Staci's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45"
-  />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ff4da6&height=180&section=header&text=Brooke's%20GitHub%20Portfolio&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p
+
 
 ---
 
