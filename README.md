@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  📁 <a href="./CSE1322/">CS3503 </a>
+  📁 <a href="./CSE3503/">CS3503 </a>
 </p>
 
 
