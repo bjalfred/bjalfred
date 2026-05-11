@@ -1,16 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20Everyone%20!&animation=twinkling&fontColor=dadada&fontSize=90&theme=merko)
+<!-- MAIN HEADER -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=ff69b4,ffb6c1,f8c8dc&height=180&section=header&text=Staci's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45"
+  />
+</p>
 
-<!--
-**bjalfred/bjalfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- ABOUT ME -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4,f8c8dc&height=90&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- PROJECTS -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=f8c8dc,ff69b4&height=90&section=header&text=Projects&fontSize=28&fontColor=ffffff&animation=twinkling"
+  />
+</p>
+
+<!-- COURSEWORK -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1,ff69b4&height=90&section=header&text=Coursework&fontSize=28&fontColor=ffffff&animation=twinkling"
+  />
+</p>
+
+<!-- SKILLS -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb,ff69b4&height=90&section=header&text=Skills&fontSize=28&fontColor=ffffff&animation=twinkling"
+  />
+</p>
+
+<!-- CONTACT -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4,ffc0cb&height=90&section=header&text=Contact&fontSize=28&fontColor=ffffff&animation=twinkling"
+  />
+</p>
