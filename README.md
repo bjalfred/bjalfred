@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  📁 <a href="./CS3305/">CS3305- Introduction to Java (Fall 2025) </a>
+  📁 <a href="./CS3305/">CS3305- Data Structures (Fall 2025) </a>
 </p>
 
 <p align="center">
