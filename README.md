@@ -62,6 +62,10 @@
 </p>
 
 <p align="center">
+  📁 <a href="./CS3305/">CS3305- Introduction to Java (Fall 2025) </a>
+</p>
+
+<p align="center">
   📁 <a href="./CS3503/">CS3503- Computer Organization and Architecture (Spring 2026) </a>
 </p>
 
