@@ -112,7 +112,7 @@
 </p>
 
 <p align="center">
-  Email: yourname@email.com  
+  Email: brookealfred2005@email.com  
   <br>
   LinkedIn: https://linkedin.com/in/brookejordanalfred
 </p>
