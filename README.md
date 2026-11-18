@@ -28,11 +28,7 @@
 </p>
 
 <p align="center">
- I'm a Computer Science student at Kennesaw State University with interests in artificial intelligence, software development, and computer networking.
-
-I currently work as an IT Student Assistant at the Georgia Tech Research Institute, where I gain hands-on experience troubleshooting hardware and software systems.
-
-Through my coursework, research, and personal projects, I'm continuing to develop my programming skills and explore how technology can be applied to solve real-world problems.
+ I'm a Computer Science student at Kennesaw State University with interests in artificial intelligence, software development, and computer networking. I currently work as an IT Student Assistant at the Georgia Tech Research Institute, where I gain hands-on experience troubleshooting hardware and software systems. Through my coursework, research, and personal projects, I'm continuing to develop my programming skills and explore how technology can be applied to solve real-world problems.
 </p>
 
 ---
@@ -130,7 +126,7 @@ Through my coursework, research, and personal projects, I'm continuing to develo
 </p>
 
 <p align="center">
-  Email: brookealfred2005@email.com  
+  Email: brookealfred2005@gmail.com  
   <br>
   LinkedIn: https://linkedin.com/in/brookejordanalfred
 </p>
