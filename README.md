@@ -28,7 +28,11 @@
 </p>
 
 <p align="center">
-  ✨ Hello Everyone! I am Brooke Alfred and I'm currently a Junior at Kennesaw State University. I am currently pursuing my bachelors in Computer Science, and I am planning on attaining a masters in Artificial Intelligence. I am 20 years old, and I am excited to share my projects with you all! 
+ I'm a Computer Science student at Kennesaw State University with interests in artificial intelligence, software development, and computer networking.
+
+I currently work as an IT Student Assistant at the Georgia Tech Research Institute, where I gain hands-on experience troubleshooting hardware and software systems.
+
+Through my coursework, research, and personal projects, I'm continuing to develop my programming skills and explore how technology can be applied to solve real-world problems.
 </p>
 
 ---
