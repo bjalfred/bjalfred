@@ -42,14 +42,19 @@
 
 <p align="center">
   • JabSense
-    -Machine learning-based boxing jab classification using computer vision and pose estimation. Repository coming Dec 2027.
+    -Machine learning-based boxing jab classification using computer vision and pose estimation.
+    -Technologies: Python, OpenCV, MediaPipe, scikit-learn
+    -Repository coming December 2026.
   
   • OwlFind
-    -A university lost-and-found web application featuring item reporting and matching functionality. Repository coming Dec 2027.
+    -A university lost-and-found web application featuring item reporting and matching functionality.
+    -Technologies: Python, FastAPI, HTML, CSS
+    -Repository coming December 2026.
     
   • TCP/UDP Web Streaming
     -Multi-client webcam streaming over TCP and UDP for comparing network performance. Repository coming Dec 2027 
-    
+    -Technologies: Python, OpenCV, Socket Programming
+    -Repository coming December 2026.
   
 </p>
 
