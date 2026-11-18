@@ -112,6 +112,9 @@
   &nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />
+   <img src="assets/fastapi.png" width="50">
+  <img src="assets/opencvlogo.png" width"50" >
+  <img src="assets/scikitlearnlogo.png" width=50>
 
 </p>
 
