@@ -40,7 +40,7 @@
   />
 </p>
 
-<p align="center">
+<p>
   • JabSense
     -Machine learning-based boxing jab classification using computer vision and pose estimation.
     -Technologies: Python, OpenCV, MediaPipe, scikit-learn
@@ -52,7 +52,7 @@
     -Repository coming December 2026.
     
   • TCP/UDP Web Streaming
-    -Multi-client webcam streaming over TCP and UDP for comparing network performance. Repository coming Dec 2027 
+    -Multi-client webcam streaming over TCP and UDP for comparing network performance.
     -Technologies: Python, OpenCV, Socket Programming
     -Repository coming December 2026.
   
